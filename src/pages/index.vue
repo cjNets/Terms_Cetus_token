@@ -53,14 +53,15 @@
         <br />
         <span>
           - For the CETUS public token sale round there will be a maximum limit on the total value of CETUS available
-          (the Hard Cap), as separately notified to you by the Seller.
+          (the <p>Hard Cap</p>), as separately notified to you by the Seller.
         </span>
         <span>
           - In allocating CETUS to be sold to purchasers, the Seller will first allocate CETUS tokens to "whitelisted"
           users (selected based on special contributions to or partnerships for the benefit of Cetus protocol, and
           determined by the Seller at its sole discretion), up to the full amount of CETUS set aside for whitelisted
-          users (the Whitelist Quota). Each "whitelisted" user also has a corresponding maximum protected amount
-          individually (the Individual Whitelist Quota). For the avoidance of doubt, amount committed by a whitelisted
+          users (the <p>Whitelist Quota</p>). Each "whitelisted" user also has a corresponding maximum protected amount
+          individually (the <p>Individual Whitelist Quota</p>). For the avoidance of doubt, amount committed by a
+          whitelisted
           user in excess of its Individual Whitelist Quota or amounts committed by whitelisted users in excess of the
           Whitelist Quota shall follow the allocation rules set out below.
         </span>
@@ -75,6 +76,38 @@
           be a portion of their committed amount, calculated proportional to all the respective committed amounts from
           all purchasers in the CETUS public token sale.
         </span>
+        The amount of CETUS which you have successfully purchased shall be notified to you after the conclusion of the
+        CETUS public token sale round. CETUS purchased shall be made claimable by purchasers promptly after the end of the
+        public token sale or after the date that the smart contract which generates CETUS is deployed on the Sui
+        blockchain (or such other blockchain network or Layer-2 solution) at the relevant subdomain on the Website.
+        Purchased CETUS may be claimed by the same digital wallet address which had sent the payment for the purchase
+        price. Upon purchased CETUS being made claimable by purchasers, the Seller shall be deemed to have fully performed
+        all its obligations under these Terms and shall have no further obligations under these Terms. You accept and
+        agree that failure to provide a valid digital wallet address will prevent the Seller from delivering CETUS to you.
+        <br />
+        <br />
+        Your purchase, whether through an intermediary or otherwise, of CETUS tokens (<p>CETUS</p>) from <p>CETUS
+          TECHNOLOGY
+          LIMITED</p>, a company incorporated or to be incorporated in the British Virgin Islands (the <p>Seller</p>, or
+        <p>us</p>), as
+        well
+        as continued holding and/or usage of CETUS, howsoever acquired, including without limitation pursuant to any
+        public sale, community incentive allocation, community distribution/allocation, or staking/rewards/ incentives
+        program, is subject to these Terms and Conditions (the <p>Terms</p>). Each of you and the Seller is a “Party,” and
+        together the “Parties.” Please read the below terms and conditions carefully before registering, accessing,
+        browsing, downloading and/or using the website at https://www.cetus.zone/ and any sub-domains (the <p>Website</p>
+        ). By
+        accessing or using the Website, purchasing CETUS (whether through an intermediary or otherwise), or continuing to
+        hold or use CETUS, you agree to be bound by these Terms (and all terms incorporated by reference).
+        <br />
+        <br />
+        Before agreeing to the Terms, you must read this document in full. If at any time you do not agree to these terms
+        and conditions or do not wish to be bound by these terms and conditions, you may not access or use the Website,
+        and shall not be entitled to purchase CETUS (whether through an intermediary or otherwise) or continue to hold or
+        use CETUS. The Seller shall be under no obligation to maintain a copy of these Terms on the Website after the sale
+        of CETUS, and you are advised to print or download and keep a copy of these Terms for your future reference (if
+        required).
+        <br />
         <br />
         <div class="title">1. PURPOSE AND USAGE OF TOKENS</div>
         <br />
@@ -138,7 +171,7 @@
         CETUS is an integral and indispensable part of the Cetus protocol because in the absence of CETUS, there
         would be no common unit of exchange for goods and services or economic incentive to motivate users to
         contribute, thus rendering the ecosystem on the Cetus protocol unsustainable. The ownership of CETUS carries
-        no rights, express or implied, in the Seller, its related entitles or its affiliates (each, a Group Entity)
+        no rights, express or implied, in the Seller, its related entitles or its affiliates (each, a <p>Group Entity</p>)
         other than the right to use CETUS as a means to enable usage of and interaction with the Cetus protocol,
         upon the successful development and deployment of the Cetus protocol. CETUS is sold as a useable virtual
         good, and does not have any functionality or utility outside the ecosystem on the Cetus protocol –
@@ -258,7 +291,8 @@
         <br />
         Any potential future usage of CETUS in connection with providing or receiving services or the usage of the
         Cetus protocol (when the same is completed and deployed) will be governed primarily by other applicable
-        terms and policies (collectively, the Service Terms and Policies), which will be made available on the Cetus
+        terms and policies (collectively, the <p>Service Terms and Policies</p>), which will be made available on the
+        Cetus
         protocol and/or Website, if the services and the Cetus protocol is successfully completed and deployed. The
         Seller may update these Terms or the Service Terms and Policies in our sole and absolute discretion. It
         shall be your responsibility to regularly check the Cetus protocol / Website for any such notices.
@@ -617,8 +651,7 @@
         <br />
         <div class="title">5. KNOW YOUR CLIENT REGULATIONS AND PERSONAL DATA</div>
         <br />
-        Know your client regulations
-        <br />
+        <div class="title">Know your client regulations</div>
         <br />
         You hereby acknowledge and accept that:
         <br />
@@ -655,11 +688,10 @@
         <br />
         <div class="title">Personal Data</div>
         <br />
-        <br />
         i. The Seller (and its affiliates) will collect, use, process and disclose your information and personal
         data for providing its services and discharging of its legal duties and responsibilities, administration,
         customer services, crime (including tax evasion) prevention and detection, anti-money laundering, due
-        diligence and verification of identity purposes (collectively, the Purposes). The Seller may disclose your
+        diligence and verification of identity purposes (collectively, the <p>Purposes</p>). The Seller may disclose your
         information to its service providers, agents, relevant custodians or similar third parties for these
         Purposes. The Seller may keep your information for such period as it may determine (which shall be no
         shorter than any mandatory period prescribed by law) to contact you about the Cetus protocol. You hereby
@@ -677,7 +709,7 @@
         <br />
         iii. You hereby warrant, represent and confirm to us and shall procure that with respect to any personal
         data of any individual (including, where applicable, your directors, partners, office holders, officers,
-        employees, agents, shareholders and beneficial owners) (each, an Individual) disclosed to us in connection
+        employees, agents, shareholders and beneficial owners) (each, an <p>Individual</p>) disclosed to us in connection
         with these Terms, the Service Terms and Policies and/or the CETUS sale or otherwise collected by us in the
         course of your relationship with us or any of our affiliates:
         <br />
@@ -705,8 +737,8 @@
         <br />
         <div class="title">6. TAXES</div>
         <br />
-        The price that you pay for CETUS is exclusive of all applicable taxes (including without limitation
-        obligations to pay value added, sales, use, offerings, withholding taxes, income or similar taxes) (Taxes).
+        The price that you pay for CETUS is <p>exclusive</p> of all applicable taxes (including without limitation
+        obligations to pay value added, sales, use, offerings, withholding taxes, income or similar taxes) (<p>Taxes</p>).
         The onus for determining the Taxes applicable to your purchase, holding and/or usage of CETUS lies solely
         with you. It is also your sole responsibility to comply with all relevant tax reporting requirements arising
         out of or in connection with your purchase, holding and/or usage of CETUS. The Seller is not responsible for
@@ -716,7 +748,6 @@
         <br />
         <br />
         <div class="title">7. REPRESENTATIONS AND WARRANTIES</div>
-        <br />
         <br />
         By purchasing (whether through an intermediary or otherwise), holding and/or using CETUS, you represent and
         warrant that:
@@ -780,7 +811,8 @@
         CETUS are obtained through lawful means, and are not derived from or related to any unlawful activities,
         including but not limited to money laundering or terrorist financing and all applicable statutes of all
         jurisdictions in which you are located, resident, organised or operating, and/or to which it may otherwise
-        be subject and the rules and regulations thereunder (collectively, the Compliance Regulations), and you will
+        be subject and the rules and regulations thereunder (collectively, the <p>Compliance Regulations</p>), and you
+        will
         not use CETUS to finance, engage in, or otherwise support any unlawful activities or in a manner which aids
         or facilitates another party in the same. To the extent required by applicable laws and regulations, you
         shall fully comply with all Compliance Regulations and no action, suit or proceeding by or before any court
@@ -793,9 +825,9 @@
         affiliate) nor any person having a direct or indirect beneficial interest in you or CETUS being acquired by
         you, or any person for whom you are acting as agent or nominee in connection with CETUS: (i) is the subject
         of any sanctions administered or enforced by any country or government or international authority, including
-        the US Department of the Treasury’s Office of Foreign Assets Control ("OFAC"), the US Department of State,
+        the US Department of the Treasury’s Office of Foreign Assets Control ("<p>OFAC</p>"), the US Department of State,
         the United Nations Security Council, the European Union or the Monetary Authority of Singapore
-        (collectively, "Sanctions"); (ii) is located, organised, citizen or resident in a country or territory that
+        (collectively, "<p>Sanctions</p>"); (ii) is located, organised, citizen or resident in a country or territory that
         is, or whose government is, the subject of Sanctions; (iii) is listed in any list of sanctioned persons
         including those maintained under the Sanctions including the List of Specially Designated Nationals and
         Blocked Persons or the Foreign Sanctions Evaders List maintained by OFAC; or (iv) is directly or indirectly
@@ -820,7 +852,7 @@
         by applicable law, decree, regulation, treaty, or administrative act or (B) where it is likely that the sale
         of CETUS would be construed as the sale of a security (howsoever named), financial service or investment
         product (including without limitation the United States of America and the People's Republic of China (the
-        Restricted Countries).
+        <p>Restricted Countries</p>).
         <br />
         <br />
         l. You acknowledge and agree that: (i) you are familiar with all related regulations in the specific
@@ -935,7 +967,7 @@
         indemnify, defend and hold harmless the Seller, each Group Entity, and their respective past, present and
         future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service
         providers, related companies, affiliates, agents, representatives, predecessors, successors and assigns (the
-        Indemnified Parties) from and against all claims, demands, actions, damages, losses, costs and expenses
+        <p>Indemnified Parties</p>) from and against all claims, demands, actions, damages, losses, costs and expenses
         (including legal fees on an indemnity basis) arising from or relating to:
         <br />
         <br />
@@ -965,8 +997,8 @@
         with these Terms or any of the transactions contemplated in connection with the same (including without
         limitation the enforceability of this arbitration Clause, any question regarding existence, validity or
         termination) shall be referred to and finally resolved by arbitration administered by the Singapore
-        International Arbitration Centre (SIAC) in accordance with the Arbitration Rules of the Singapore
-        International Arbitration Centre (SIAC Rules) for the time being in force, which rules are deemed to be
+        International Arbitration Centre (<p>SIAC</p>) in accordance with the Arbitration Rules of the Singapore
+        International Arbitration Centre (<p>SIAC Rules</p>) for the time being in force, which rules are deemed to be
         incorporated by reference in this arbitration Clause. The seat of the arbitration shall be Singapore. The
         Tribunal shall consist of 1 arbitrator. The language of the arbitration shall be English.
         <br />
@@ -1248,6 +1280,12 @@ export default Vue.extend({
       >span {
         text-align: left;
         padding-left: 20px;
+      }
+
+      p {
+        margin: 0 !important;
+        font-size: 16px !important;
+        display: contents !important;
       }
 
       >ul {
